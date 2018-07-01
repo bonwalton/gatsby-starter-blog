@@ -31,22 +31,19 @@ The leading reason SSL/HTTPS is important is because the encryption makes it mor
 **Q8: A customer writes in saying their “site won’t build”**  
 *Compose your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.*
 
->>Hi John, 
+Hi Jane,\
+I'm sorry you're having issues with your site and I'm here to help! These are a few things to check:
 
-I’m sorry you’re having issues with your site and I’m here to help! Here are a few things to check:
+1.  make sure your site builds locally in your own development environment
+1.  check to make sure the package versions we use to build match yours. You can find the settings for these in the [Build Settings](https://www.netlify.com/docs/build-settings) doc.
+1.  scan through this handy doc with the most popular [Build Gotchas](https://www.netlify.com/docs/build-gotchas/)\
 
-  1. make sure your site builds locally in your own development environment
-  2. check to make sure the package versions we use to build match yours. You can find the settings for these in the Build Settings doc. 
-  3. scan through this handy doc with the most popular [Build Gotchas](https://www.netlify.com/docs/build-gotchas/)
+If these ideas don't fix your problem, please share more about your build including what happened when you tried my above ideas. With more details from your side, I'll be able to dig deeper on my end to help figure out what could be going on here so we can get your site working.
 
-If these ideas don’t fix your problem, please share more about your build including what happened when you tried my above ideas. With more details from your side, I’ll be able to dig deeper on my end to help figure out what could be going on here so we can get your site working.
+I'm looking forward to working with you on this!
 
-I’m looking forward to working with you on this!
-
-Thank you!
-
+Thank you!\
 Bonnie
-
 
 
 
