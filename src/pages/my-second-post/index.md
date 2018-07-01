@@ -1,3 +1,8 @@
+---
+title: Answers
+date: "2018-07-01T22:40:32.169Z"
+---
+
 **Q5: Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.**
 
 [MailChimp’s API documentation](http://developer.mailchimp.com/) is a great example of a well-organized combo of developer reference and support documentation. I appreciate their interactive Playground and that their guides are both fun to read and give a helpful understanding of APIs in general—not just MailChimp. Additionally, their easy to find Error Glossary, Changelog, and API Status pages are valuable for troubleshooting issues. 
