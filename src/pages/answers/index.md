@@ -22,9 +22,9 @@ While MailChimp isn’t listed, I think this [blog from Adam at Zapier](https://
 
 The leading reason SSL/HTTPS is important is because the encryption makes it more secure to surf the web, especially when using Wifi in public spaces like airports or cafes. However, there are several additional reasons that make it important to web developers like Netlify’s customers. Even if your site doesn’t take credit cards or handle info that your visitors deem to be private, you’ll be missing out if you stay on HTTP and here’s why: 
 
-  * Your page will be buried in the search results. Google and other search engines have been using HTTPS as ranking signal for years and, starting July 2018, Chrome will also mark all HTTP sites as “not secure”. https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html
-  * To help keep pesky ads off of your site! Even legit companies are looking for unencrypted pages that they can sneak on. This could hurt your brand and take money from you. 
-  * You’ll be missing out on data. Even if you’re not a data fan, there are some easy ways to use analytics to help you to improve the quality and performance of your website, but without HTTPS, you won’t have access to all of the analytics available. 
+    * Your page will be buried in the search results. Google and other search engines have been using HTTPS as ranking signal for years and, starting July 2018, Chrome will also mark all HTTP sites as “not secure”. https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html
+    * To help keep pesky ads off of your site! Even legit companies are looking for unencrypted pages that they can sneak on. This could hurt your brand and take money from you. 
+    * You’ll be missing out on data. Even if you’re not a data fan, there are some easy ways to use analytics to help you to improve the quality and performance of your website, but without HTTPS, you won’t have access to all of the analytics available. 
 
 **Q7: Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.**
 
@@ -35,9 +35,9 @@ Hi Jane,
 
 I'm sorry you're having issues with your site and I'm here to help! These are a few things to check:
 
-  1.  make sure your site builds locally in your own development environment
-  1.  check to make sure the package versions we use to build match yours. You can find the settings for these in the [Build Settings](https://www.netlify.com/docs/build-settings) doc.
-  1.  scan through this handy doc with the most popular [Build Gotchas](https://www.netlify.com/docs/build-gotchas/)\
+    1. make sure your site builds locally in your own development environment
+    1. check to make sure the package versions we use to build match yours. You can find the settings for these in the [Build Settings](https://www.netlify.com/docs/build-settings) doc.
+    1. scan through this handy doc with the most popular [Build Gotchas](https://www.netlify.com/docs/build-gotchas/)\
 
 If these ideas don't fix your problem, please share more about your build including what happened when you tried my above ideas. With more details from your side, I'll be able to dig deeper on my end to help figure out what could be going on here so we can get your site working.
 
