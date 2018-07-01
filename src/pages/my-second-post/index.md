@@ -1,6 +1,7 @@
 ---
-title: Answers
+title: Exercise Answers
 date: "2018-07-01T22:40:32.169Z"
+path: "/answers/"
 ---
 
 **Q5: Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.**
