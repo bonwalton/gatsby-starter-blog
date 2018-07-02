@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Take-Home Exercise',
     author: 'Bonnie Walton',
-    description: 'Bonnie's take-home exercise',
+    description: 'Take-home exercise for Netlify.',
     siteUrl: 'https://bonwalton.netlify.com/answers/',
   },
   pathPrefix: '/take-home-exercise',
