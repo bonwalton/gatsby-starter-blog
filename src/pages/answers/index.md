@@ -42,10 +42,9 @@ Briefly explain a challenge you experienced in setting up this site and how you 
 
 Being new to this style of web development, I didn't have experience with any of the static generators listed on the StaticGen site. I chose Gatsby because it was the first one on the list with JavaScript and React which lines up with the Codecademy courses I'm taking.
 
-I was happy to see the option to deploy a template site "with just one click" and I chose the "Gatsby starter blog". As I mentioned in Q3, the template confused me at the start. I've used GitHub before as a contributor at my last company, but I had not deployed my own repositories before. I wasted time using GitHub to edit my code which was not only slow, but stressful knowing that every tweak was visible to the world! I also tried out switching templates to the "Gatsby default starter site", but got I quickly realized I preferred using Markdown and switched back to original template.
+I was happy to see the option to deploy a template site "with just one click" and I chose the "Gatsby starter blog". As I mentioned in Q3, the template confused me at the start. I've used GitHub before as a contributor at my last company, but I had not deployed my own repositories before. I wasted time using GitHub to edit my code which was not only slow, but stressful knowing that every tweak was visible to the world! I also tried out switching templates to the "Gatsby default starter site", but I quickly realized how much I preferred using Markdown and I switched back to original template.
 
 Once I got to a spot that I understood, I was off and really enjoying it! I used my terminal to load it all up, I did my editing in Atom, and when I was ready, I deployed it to the world! It wasn't as graceful as I had hoped, but I'm grateful for how much I've learned doing this exercise and I'm excited for finding more opportunities to build on Netlify!
-
 
 <span style="color:teal">**Q5: Provide a link to documentation for a technical/developer-focused product, which you think are well done, and briefly explain why you think they are well done.**
 
@@ -63,11 +62,11 @@ Put in my words: even if your site doesn’t take credit cards or handle info th
 
 * **Your page will be buried in the search results.** Google and other search engines have been using HTTPS as ranking signal for years and soon Chrome will also mark all HTTP sites as <a href="https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html" target="blank">"not secure"</a>.
 * **To help keep pesky ads off of your site!** Even legit companies are looking for unencrypted pages that they can sneak on. This could hurt your brand and take money from you.
-* **You’ll be missing out on data.** Even if you’re not a data fan, there are some easy ways to use analytics to help you to improve the quality and performance of your website, but without HTTPS, you won’t have access to all of the analytics available. </ul>
+* **You’ll be missing out on data.** Even if you’re not a data fan, there are some easy ways to use analytics to help you to improve the quality and performance of your website. However, without HTTPS, you won’t have access to all of the analytics available. </ul>
 
 <span style="color:teal">**Q7: Explain, in a couple of paragraphs, what you think 2 major challenges around DNS configuration are for less-technical internet end-users.**
 
-Buying a domain name is easy, but understanding all of the things involved with actually using your domain name gets complicated—especially for the less-technical internet end-user! A major challenge is the inconsistency with DNS providers. With thousands of DNS providers, it can it be tough to find where to go to make your changes and they can vary significantly on things like the type of records they support and the time it takes to respond to your changes.
+Buying a domain name is easy, but understanding all of the things involved with actually using your domain name gets complicated—especially for the less-technical internet end-user! A major challenge is the inconsistency with DNS providers. With thousands of DNS providers, it can it be tough to find where to go to make your changes and the providers can vary significantly on things like the type of records they support and the time it takes to respond to your changes.
 
 A second major challenge is understanding how to setup the configuration you need. Even with Google and a glossary of terms to define things like DNS Zones and the type of DNS records out there, it’s tricky to conceptualize what you really need.
 
@@ -77,15 +76,15 @@ Compose your best short (2-paragraph) customer-facing answer, without any additi
 
 Hi Jane,
 
-I'm sorry your site won't build and I'm here to help! These are a few things to check:
+I'm sorry your site won't build and I'm here to help! Here are a few things to check:
 
 <ul style="margin-left: 30px;">
 
 1. make sure your site builds locally in your own development environment
 1. make sure your package versions match our <a href="https://www.netlify.com/docs/build-settings" target="blank">Build Settings</a>
-1. scan through this handy doc with the most popular <a href="https://www.netlify.com/docs/build-gotchas/" target="blank">Build Gotchas</a> to see if anything there helps </ul>
+1. scan through this doc with the most popular <a href="https://www.netlify.com/docs/build-gotchas/" target="blank">Build Gotchas</a> to see if anything there helps </ul>
 
-If these ideas don't fix it, please share more about your build including which Static Site Generator you're using and what happened when you tried my above ideas. With more details from your side, I'll be able to better help figure out what could be going on here so we can get your site working!
+If these ideas don't fix it, please share more details about your build and I'll be able to better help figure out what could be going on here so we can get your site working! Things like the static site generator and text editor you're using plus what happened when you tried my above ideas will all be helpful.  
 
 I'm looking forward to working with you on this!
 
@@ -95,4 +94,4 @@ Bonnie
 
 <span style="color:teal">**(optional/bonus) Could you give us a suggestion to improve this test or the job posting?**
 
-I've really enjoyed working on this test and think it aligns well with the job post. Especially since I'm new at this, I appreciated the line: "Not sure you meet 100% of our qualifications?  Please apply anyway!" 
+I've really enjoyed working on this test and think it aligns well with the job post. Especially since I'm new at this, I appreciated the line: "Not sure you meet 100% of our qualifications? Please apply anyway!" I also liked that the test was "at your pace/convenience", but if you were interested in setting up a timed version, it might help you to better understand the skill level of your candidates. The folks on the Zapier engineering hiring team set up a cool way to use Zaps and GitHub to still allow candidates to choose when to start while limiting them to a set amount of time. Again, I liked it as is! I'm only trying to get one of the bonus points :)
