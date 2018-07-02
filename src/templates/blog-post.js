@@ -14,14 +14,14 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <div>
+      <Bio />
         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <h1>{post.frontmatter.title}</h1>
         <p
           style={{
             ...scale(-1 / 5),
             display: 'block',
             marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
+            marginTop: rhythm(1),
           }}
         >
           {post.frontmatter.date}
@@ -39,7 +39,7 @@ class BlogPostTemplate extends React.Component {
             display: 'flex',
             flexWrap: 'wrap',
             justifyContent: 'space-between',
-            listStyle: 'none',
+            listStyle: `none`,
             padding: 0,
           }}
         >

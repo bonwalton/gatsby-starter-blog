@@ -17,7 +17,7 @@ class Template extends React.Component {
       header = (
         <h1
           style={{
-            ...scale(1.5),
+            ...scale(1),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -30,7 +30,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Netlify Exercise
+            Take-Home Exercise
           </Link>
         </h1>
       )
@@ -40,7 +40,7 @@ class Template extends React.Component {
           style={{
             fontFamily: 'Montserrat, sans-serif',
             marginTop: 0,
-            marginBottom: rhythm(-1),
+            marginBottom: rhythm(1),
           }}
         >
           <Link
@@ -51,7 +51,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Netlify Exercise
+            Take-Home Exercise
           </Link>
         </h3>
       )
@@ -61,8 +61,8 @@ class Template extends React.Component {
         style={{
           marginLeft: 'auto',
           marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          maxWidth: rhythm(30),
+          padding: `${rhythm(1)} ${rhythm(3 / 4)}`,
         }}
       >
         {header}
