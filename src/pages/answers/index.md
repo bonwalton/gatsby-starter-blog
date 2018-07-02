@@ -72,20 +72,20 @@ Buying a domain name is easy, but understanding all of the things involved with 
 A second major challenge is understanding how to setup the configuration you need. Even with Google and a glossary of terms to define things like DNS Zones and the type of DNS records out there, it’s tricky to conceptualize what you really need.
 
 
-<span style="color:teal">**Q8: A customer writes in saying their “site won’t build”**  
+<span style="color:teal">**Q8: A customer writes in saying their “site won’t build”.**  
 Compose your best short (2-paragraph) customer-facing answer, without any additional data, that could be useful in the generic case, but would also lead to a customer providing a more actionable response.
 
 Hi Jane,
 
-I'm sorry you're having issues with your site and I'm here to help! These are a few things to check:
+I'm sorry your site won't build and I'm here to help! These are a few things to check:
 
 <ul style="margin-left: 30px;">
 
 1. make sure your site builds locally in your own development environment
-1. check to make sure the package versions we use to build match yours (you can find the settings for these in the <a href="https://www.netlify.com/docs/build-settings" target="blank">Build Settings</a>
-1. scan through this handy doc with the most popular <a href="https://www.netlify.com/docs/build-gotchas/" target="blank">Build Gotchas</a> </ul>
+1. make sure your package versions match our <a href="https://www.netlify.com/docs/build-settings" target="blank">Build Settings</a>
+1. scan through this handy doc with the most popular <a href="https://www.netlify.com/docs/build-gotchas/" target="blank">Build Gotchas</a> to see if anything there helps </ul>
 
-If these ideas don't fix your problem, please share more about your build including what happened when you tried my above ideas. With more details from your side, I'll be able to dig deeper on my end to help figure out what could be going on here so we can get your site working.
+If these ideas don't fix it, please share more about your build including which Static Site Generator you're using and what happened when you tried my above ideas. With more details from your side, I'll be able to better help figure out what could be going on here so we can get your site working!
 
 I'm looking forward to working with you on this!
 
@@ -95,4 +95,4 @@ Bonnie
 
 <span style="color:teal">**(optional/bonus) Could you give us a suggestion to improve this test or the job posting?**
 
-I've really enjoyed working on this test and think it aligns well with the job post. Especially since I'm new at this, I appreciated the line: "Not sure you meet 100% of our qualifications?  Please apply anyway!"
+I've really enjoyed working on this test and think it aligns well with the job post. Especially since I'm new at this, I appreciated the line: "Not sure you meet 100% of our qualifications?  Please apply anyway!" 
